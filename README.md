@@ -1,6 +1,7 @@
 # g123-DB
 ### list of games
 - 邪神ちゃんドロップキック (DROPKICK ON MY DEVIL!)
+- クイーンズブレイド (Queen's Blade)
 
 ## license
 Each asset's copyright is in the original author,
